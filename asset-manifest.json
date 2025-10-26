@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI-platform-finance/static/css/main.157e95f0.css",
+    "main.js": "/AI-platform-finance/static/js/main.066a10bd.js",
+    "index.html": "/AI-platform-finance/index.html",
+    "main.157e95f0.css.map": "/AI-platform-finance/static/css/main.157e95f0.css.map",
+    "main.066a10bd.js.map": "/AI-platform-finance/static/js/main.066a10bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.157e95f0.css",
+    "static/js/main.066a10bd.js"
+  ]
+}

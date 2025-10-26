@@ -1,0 +1,359 @@
+{
+    "equity": {
+        "total_cost": 218504637.64,
+        "income": 0,
+        "market_value": 213534049.74031755,
+        "unrealized_pnl": -4970587.89968246,
+        "roi": -0.02274820321146599,
+        "xirr": 0.05716433,
+        "holding_percentage": 100.0,
+        "constituents": [
+            {
+                "name": "Large-Cap",
+                "total_cost": 82614583.81,
+                "income": 0.0,
+                "market_value": 78487785.77392,
+                "unrealized_pnl": -4126798.03608,
+                "roi": -0.04995241573292869,
+                "xirr": -0.03536872,
+                "holding_percentage": 36.75656686573891,
+                "instruments": [
+                    {
+                        "name": "BHARAT PETROLEUM",
+                        "total_cost": 5385834.07,
+                        "income": 0.0,
+                        "market_value": 3088743.8442399,
+                        "unrealized_pnl": -2297090.2257601,
+                        "roi": -0.42650594056643487,
+                        "xirr": -0.3243997,
+                        "holding_percentage": 3.9353178507760003
+                    },
+                    {
+                        "name": "BOSCH",
+                        "total_cost": 2615049.45,
+                        "income": 0.0,
+                        "market_value": 3299166.265625,
+                        "unrealized_pnl": 684116.815625,
+                        "roi": 0.2616076019614084,
+                        "xirr": 0.1788238,
+                        "holding_percentage": 4.203413605179381
+                    },
+                    {
+                        "name": "EICHER MOTORS",
+                        "total_cost": 5498876.56,
+                        "income": 0.0,
+                        "market_value": 8197382.26611774,
+                        "unrealized_pnl": 2698505.70611774,
+                        "roi": 0.4907376400749283,
+                        "xirr": 0.32825314,
+                        "holding_percentage": 10.444150239796386
+                    },
+                    {
+                        "name": "ICICI BANK",
+                        "total_cost": 13543703.9,
+                        "income": 0.0,
+                        "market_value": 15835481.87641884,
+                        "unrealized_pnl": 2291777.97641884,
+                        "roi": 0.16921353223166966,
+                        "xirr": 0.12339144,
+                        "holding_percentage": 20.175727624718736
+                    },
+                    {
+                        "name": "Larsen & Toubro",
+                        "total_cost": 6905043.34,
+                        "income": 0.0,
+                        "market_value": 7477190.5590747,
+                        "unrealized_pnl": 572147.2190747,
+                        "roi": 0.08285932338184282,
+                        "xirr": 0.05807262,
+                        "holding_percentage": 9.526565803005782
+                    },
+                    {
+                        "name": "POWER FIN",
+                        "total_cost": 5613953.92,
+                        "income": 0.0,
+                        "market_value": 4756320.0,
+                        "unrealized_pnl": -857633.92,
+                        "roi": -0.15276825072336897,
+                        "xirr": -0.11104056,
+                        "holding_percentage": 6.059949268667527
+                    },
+                    {
+                        "name": "POWER GRID",
+                        "total_cost": 5272673.89,
+                        "income": 0.0,
+                        "market_value": 4913854.75621469,
+                        "unrealized_pnl": -358819.13378531,
+                        "roi": -0.06805259366899893,
+                        "xirr": -0.0484202,
+                        "holding_percentage": 6.260661716676266
+                    },
+                    {
+                        "name": "RELIANCE INDUSTRIES",
+                        "total_cost": 8245852.57,
+                        "income": 0.0,
+                        "market_value": 3929123.83960497,
+                        "unrealized_pnl": -4316728.73039503,
+                        "roi": -0.5235030209126126,
+                        "xirr": -0.40986366,
+                        "holding_percentage": 5.006032213626981
+                    },
+                    {
+                        "name": "TATA POWER",
+                        "total_cost": 7115391.54,
+                        "income": 0.0,
+                        "market_value": 6313459.2471669,
+                        "unrealized_pnl": -801932.2928331,
+                        "roi": -0.11270388822947332,
+                        "xirr": -0.08160078,
+                        "holding_percentage": 8.043874833407191
+                    },
+                    {
+                        "name": "TATA STEEL",
+                        "total_cost": 7200504.62,
+                        "income": 0.0,
+                        "market_value": 7550551.7839973,
+                        "unrealized_pnl": 350047.1639973,
+                        "roi": 0.04861425448225044,
+                        "xirr": 0.03463217,
+                        "holding_percentage": 9.620034135943486
+                    },
+                    {
+                        "name": "SUN PHARMACEUTICAL IND",
+                        "total_cost": 4856269.17,
+                        "income": 0.0,
+                        "market_value": 4376084.33545996,
+                        "unrealized_pnl": -480184.83454004,
+                        "roi": -0.09887936968288766,
+                        "xirr": -0.13359712,
+                        "holding_percentage": 5.575497247514465
+                    },
+                    {
+                        "name": "L&T TECHNOLOGY SER",
+                        "total_cost": 6228639.19,
+                        "income": 0.0,
+                        "market_value": 4812558.0,
+                        "unrealized_pnl": -1416081.19,
+                        "roi": -0.22735001126305407,
+                        "xirr": -0.30475492,
+                        "holding_percentage": 6.131601181695103
+                    },
+                    {
+                        "name": "LTIMINDTREE",
+                        "total_cost": 4132791.59,
+                        "income": 0.0,
+                        "market_value": 3937869.0,
+                        "unrealized_pnl": -194922.59,
+                        "roi": -0.0471648728843837,
+                        "xirr": -0.06582028,
+                        "holding_percentage": 5.017174278992693
+                    }
+                ]
+            },
+            {
+                "name": "Mid-Cap",
+                "total_cost": 74895726.36,
+                "income": 0.0,
+                "market_value": 72289803.05214263,
+                "unrealized_pnl": -2605923.30785736,
+                "roi": -0.03479401875791301,
+                "xirr": 0.20137949,
+                "holding_percentage": 33.85399337485311,
+                "instruments": [
+                    {
+                        "name": "CENTURY TEXTILES",
+                        "total_cost": 4021199.61,
+                        "income": 0.0,
+                        "market_value": 3323258.19873426,
+                        "unrealized_pnl": -697941.41126574,
+                        "roi": -0.1735654727335806,
+                        "xirr": -0.12585705,
+                        "holding_percentage": 4.597132733004119
+                    },
+                    {
+                        "name": "CONTAINER CORPORATION OF INDIA",
+                        "total_cost": 7243290.05,
+                        "income": 0.0,
+                        "market_value": 3662484.53438331,
+                        "unrealized_pnl": -3580805.51561669,
+                        "roi": -0.49436174596055144,
+                        "xirr": -0.38564438,
+                        "holding_percentage": 5.066391634435025
+                    },
+                    {
+                        "name": "IPCA LABORATORIES",
+                        "total_cost": 4237259.01,
+                        "income": 0.0,
+                        "market_value": 4249954.95996708,
+                        "unrealized_pnl": 12695.94996708,
+                        "roi": 0.002996264787476374,
+                        "xirr": 0.00211644,
+                        "holding_percentage": 5.87905178950562
+                    },
+                    {
+                        "name": "PIRAMAL ENTERPRISES",
+                        "total_cost": 4149074.67,
+                        "income": 0.0,
+                        "market_value": 5131549.68861717,
+                        "unrealized_pnl": 982475.01861717,
+                        "roi": 0.23679376650436856,
+                        "xirr": 0.16105631,
+                        "holding_percentage": 7.098580258844782
+                    },
+                    {
+                        "name": "VOLTAS",
+                        "total_cost": 4176125.52,
+                        "income": 0.0,
+                        "market_value": 3984946.13111498,
+                        "unrealized_pnl": -191179.38888502,
+                        "roi": -0.04577912899634779,
+                        "xirr": -0.03280908,
+                        "holding_percentage": 5.512459521076075
+                    },
+                    {
+                        "name": "AKUMS DRUGS & PHARMA",
+                        "total_cost": 9828244.45,
+                        "income": 0.0,
+                        "market_value": 5009894.6319901,
+                        "unrealized_pnl": -4818349.8180099,
+                        "roi": -0.4902553902197559,
+                        "xirr": -0.46180291,
+                        "holding_percentage": 6.930292268712453
+                    },
+                    {
+                        "name": "PIRAMAL PHARMA",
+                        "total_cost": 9686705.56,
+                        "income": 0.0,
+                        "market_value": 6789528.0,
+                        "unrealized_pnl": -2897177.56,
+                        "roi": -0.2990880172887179,
+                        "xirr": -0.31338001,
+                        "holding_percentage": 9.392096413795336
+                    },
+                    {
+                        "name": "LAURUS LABS",
+                        "total_cost": 10944050.81,
+                        "income": 0.0,
+                        "market_value": 16478397.57013454,
+                        "unrealized_pnl": 5534346.76013454,
+                        "roi": 0.5056945418306715,
+                        "xirr": 0.74609156,
+                        "holding_percentage": 22.79491280153118
+                    },
+                    {
+                        "name": "STAR HEALTH & AL INS",
+                        "total_cost": 10532922.63,
+                        "income": 0.0,
+                        "market_value": 10910869.3372012,
+                        "unrealized_pnl": 377946.7072012,
+                        "roi": 0.03588241559135045,
+                        "xirr": 0.0497551,
+                        "holding_percentage": 15.093234282753805
+                    },
+                    {
+                        "name": "CENTRAL DEPO SER (I)",
+                        "total_cost": 10076854.05,
+                        "income": 0.0,
+                        "market_value": 12748920.0,
+                        "unrealized_pnl": 2672065.95,
+                        "roi": 0.26516866640536485,
+                        "xirr": 0.39301037,
+                        "holding_percentage": 17.635848296341607
+                    }
+                ]
+            },
+            {
+                "name": "Small-Cap",
+                "total_cost": 60994327.47,
+                "income": 0.0,
+                "market_value": 62756460.9142549,
+                "unrealized_pnl": 1762133.4442549,
+                "roi": 0.028890120070946,
+                "xirr": 0.02476459,
+                "holding_percentage": 29.38943975940798,
+                "instruments": [
+                    {
+                        "name": "CMS INFO SYSTEMS",
+                        "total_cost": 4834218.65,
+                        "income": 0.0,
+                        "market_value": 4018707.56228341,
+                        "unrealized_pnl": -815511.08771659,
+                        "roi": -0.16869553215525118,
+                        "xirr": -0.12099733,
+                        "holding_percentage": 6.403655502139024
+                    },
+                    {
+                        "name": "CONCORD BIOTECH",
+                        "total_cost": 7206722.01,
+                        "income": 0.0,
+                        "market_value": 6803347.5,
+                        "unrealized_pnl": -403374.51,
+                        "roi": -0.055971981358553885,
+                        "xirr": -0.04011886,
+                        "holding_percentage": 10.840871841539178
+                    },
+                    {
+                        "name": "ETERNAL",
+                        "total_cost": 14936089.1,
+                        "income": 0.0,
+                        "market_value": 23426078.903271,
+                        "unrealized_pnl": 8489989.803271,
+                        "roi": 0.5684212076152518,
+                        "xirr": 0.44875159,
+                        "holding_percentage": 37.32855320710071
+                    },
+                    {
+                        "name": "EUREKA FORBES",
+                        "total_cost": 4123642.34,
+                        "income": 0.0,
+                        "market_value": 4831504.0,
+                        "unrealized_pnl": 707861.66,
+                        "roi": 0.17165932484823598,
+                        "xirr": 0.11866692,
+                        "holding_percentage": 7.698815276727215
+                    },
+                    {
+                        "name": "JAMMU & KASHMIR BANK",
+                        "total_cost": 4655964.45,
+                        "income": 0.0,
+                        "market_value": 3809921.09313288,
+                        "unrealized_pnl": -846043.35686712,
+                        "roi": -0.18171173039500335,
+                        "xirr": -0.13375762,
+                        "holding_percentage": 6.070962316275981
+                    },
+                    {
+                        "name": "WESTLIFE FOODWORLD",
+                        "total_cost": 4304693.22,
+                        "income": 0.0,
+                        "market_value": 3160289.36341874,
+                        "unrealized_pnl": -1144403.85658126,
+                        "roi": -0.26585027041282633,
+                        "xirr": -0.19774829,
+                        "holding_percentage": 5.035799210756469
+                    },
+                    {
+                        "name": "SUVEN PHARMA",
+                        "total_cost": 9980950.52,
+                        "income": 0.0,
+                        "market_value": 6559852.49214887,
+                        "unrealized_pnl": -3421098.02785113,
+                        "roi": -0.34276274799638323,
+                        "xirr": -0.35856103,
+                        "holding_percentage": 10.452871937937507
+                    },
+                    {
+                        "name": "RELIGARE ENTER",
+                        "total_cost": 10952047.18,
+                        "income": 0.0,
+                        "market_value": 10146760.0,
+                        "unrealized_pnl": -805287.18,
+                        "roi": -0.07352846155288385,
+                        "xirr": -0.09740792,
+                        "holding_percentage": 16.168470707523916
+                    }
+                ]
+            }
+        ]
+    }
+}

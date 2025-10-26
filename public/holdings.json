@@ -1,0 +1,323 @@
+{
+    "equity": {
+        "cost": 218504637.64,
+        "portfolio_cost_pct": 100.0,
+        "market_value": 213534049.74031755,
+        "portfolio_allocation": 100.0,
+        "xirr": 0.05716433,
+        "constituents": [
+            {
+                "name": "Large-Cap",
+                "cost": 82614583.81,
+                "cost_pct": 37.81,
+                "market_value": 78487785.77392,
+                "allocation": 36.76,
+                "xirr": -0.03536872,
+                "returns_contribution": -0.013372913032,
+                "instruments": [
+                    {
+                        "name": "BHARAT PETROLEUM",
+                        "cost": 5385834.07,
+                        "cost_pct": 6.52,
+                        "market_value": 3088743.8442399,
+                        "allocation": 3.94,
+                        "xirr": -0.3243997,
+                        "returns_contribution": -0.02115086044
+                    },
+                    {
+                        "name": "BOSCH",
+                        "cost": 2615049.45,
+                        "cost_pct": 3.17,
+                        "market_value": 3299166.265625,
+                        "allocation": 4.2,
+                        "xirr": 0.1788238,
+                        "returns_contribution": 0.00566871446
+                    },
+                    {
+                        "name": "EICHER MOTORS",
+                        "cost": 5498876.56,
+                        "cost_pct": 6.66,
+                        "market_value": 8197382.26611774,
+                        "allocation": 10.44,
+                        "xirr": 0.32825314,
+                        "returns_contribution": 0.021861659124
+                    },
+                    {
+                        "name": "ICICI BANK",
+                        "cost": 13543703.9,
+                        "cost_pct": 16.39,
+                        "market_value": 15835481.87641884,
+                        "allocation": 20.18,
+                        "xirr": 0.12339144,
+                        "returns_contribution": 0.020223857016
+                    },
+                    {
+                        "name": "Larsen & Toubro",
+                        "cost": 6905043.34,
+                        "cost_pct": 8.36,
+                        "market_value": 7477190.5590747,
+                        "allocation": 9.53,
+                        "xirr": 0.05807262,
+                        "returns_contribution": 0.004854871032
+                    },
+                    {
+                        "name": "POWER FIN",
+                        "cost": 5613953.92,
+                        "cost_pct": 6.8,
+                        "market_value": 4756320.0,
+                        "allocation": 6.06,
+                        "xirr": -0.11104056,
+                        "returns_contribution": -0.00755075808
+                    },
+                    {
+                        "name": "POWER GRID",
+                        "cost": 5272673.89,
+                        "cost_pct": 6.38,
+                        "market_value": 4913854.75621469,
+                        "allocation": 6.26,
+                        "xirr": -0.0484202,
+                        "returns_contribution": -0.00308920876
+                    },
+                    {
+                        "name": "RELIANCE INDUSTRIES",
+                        "cost": 8245852.57,
+                        "cost_pct": 9.98,
+                        "market_value": 3929123.83960497,
+                        "allocation": 5.01,
+                        "xirr": -0.40986366,
+                        "returns_contribution": -0.040904393268
+                    },
+                    {
+                        "name": "TATA POWER",
+                        "cost": 7115391.54,
+                        "cost_pct": 8.61,
+                        "market_value": 6313459.2471669,
+                        "allocation": 8.04,
+                        "xirr": -0.08160078,
+                        "returns_contribution": -0.007025827158
+                    },
+                    {
+                        "name": "TATA STEEL",
+                        "cost": 7200504.62,
+                        "cost_pct": 8.72,
+                        "market_value": 7550551.7839973,
+                        "allocation": 9.62,
+                        "xirr": 0.03463217,
+                        "returns_contribution": 0.003019925224
+                    },
+                    {
+                        "name": "SUN PHARMACEUTICAL IND",
+                        "cost": 4856269.17,
+                        "cost_pct": 5.88,
+                        "market_value": 4376084.33545996,
+                        "allocation": 5.58,
+                        "xirr": -0.13359712,
+                        "returns_contribution": -0.007855510656
+                    },
+                    {
+                        "name": "L&T TECHNOLOGY SER",
+                        "cost": 6228639.19,
+                        "cost_pct": 7.54,
+                        "market_value": 4812558.0,
+                        "allocation": 6.13,
+                        "xirr": -0.30475492,
+                        "returns_contribution": -0.022978520968
+                    },
+                    {
+                        "name": "LTIMINDTREE",
+                        "cost": 4132791.59,
+                        "cost_pct": 5.0,
+                        "market_value": 3937869.0,
+                        "allocation": 5.02,
+                        "xirr": -0.06582028,
+                        "returns_contribution": -0.003291014
+                    }
+                ]
+            },
+            {
+                "name": "Mid-Cap",
+                "cost": 74895726.36,
+                "cost_pct": 34.28,
+                "market_value": 72289803.05214263,
+                "allocation": 33.85,
+                "xirr": 0.20137949,
+                "returns_contribution": 0.069032889172,
+                "instruments": [
+                    {
+                        "name": "CENTURY TEXTILES",
+                        "cost": 4021199.61,
+                        "cost_pct": 5.37,
+                        "market_value": 3323258.19873426,
+                        "allocation": 4.6,
+                        "xirr": -0.12585705,
+                        "returns_contribution": -0.006758523585
+                    },
+                    {
+                        "name": "CONTAINER CORPORATION OF INDIA",
+                        "cost": 7243290.05,
+                        "cost_pct": 9.67,
+                        "market_value": 3662484.53438331,
+                        "allocation": 5.07,
+                        "xirr": -0.38564438,
+                        "returns_contribution": -0.037291811546
+                    },
+                    {
+                        "name": "IPCA LABORATORIES",
+                        "cost": 4237259.01,
+                        "cost_pct": 5.66,
+                        "market_value": 4249954.95996708,
+                        "allocation": 5.88,
+                        "xirr": 0.00211644,
+                        "returns_contribution": 0.000119790504
+                    },
+                    {
+                        "name": "PIRAMAL ENTERPRISES",
+                        "cost": 4149074.67,
+                        "cost_pct": 5.54,
+                        "market_value": 5131549.68861717,
+                        "allocation": 7.1,
+                        "xirr": 0.16105631,
+                        "returns_contribution": 0.008922519574
+                    },
+                    {
+                        "name": "VOLTAS",
+                        "cost": 4176125.52,
+                        "cost_pct": 5.58,
+                        "market_value": 3984946.13111498,
+                        "allocation": 5.51,
+                        "xirr": -0.03280908,
+                        "returns_contribution": -0.001830746664
+                    },
+                    {
+                        "name": "AKUMS DRUGS & PHARMA",
+                        "cost": 9828244.45,
+                        "cost_pct": 13.12,
+                        "market_value": 5009894.6319901,
+                        "allocation": 6.93,
+                        "xirr": -0.46180291,
+                        "returns_contribution": -0.060588541792
+                    },
+                    {
+                        "name": "PIRAMAL PHARMA",
+                        "cost": 9686705.56,
+                        "cost_pct": 12.93,
+                        "market_value": 6789528.0,
+                        "allocation": 9.39,
+                        "xirr": -0.31338001,
+                        "returns_contribution": -0.040520035293
+                    },
+                    {
+                        "name": "LAURUS LABS",
+                        "cost": 10944050.81,
+                        "cost_pct": 14.61,
+                        "market_value": 16478397.57013454,
+                        "allocation": 22.79,
+                        "xirr": 0.74609156,
+                        "returns_contribution": 0.109003976916
+                    },
+                    {
+                        "name": "STAR HEALTH & AL INS",
+                        "cost": 10532922.63,
+                        "cost_pct": 14.06,
+                        "market_value": 10910869.3372012,
+                        "allocation": 15.09,
+                        "xirr": 0.0497551,
+                        "returns_contribution": 0.00699556706
+                    },
+                    {
+                        "name": "CENTRAL DEPO SER (I)",
+                        "cost": 10076854.05,
+                        "cost_pct": 13.45,
+                        "market_value": 12748920.0,
+                        "allocation": 17.64,
+                        "xirr": 0.39301037,
+                        "returns_contribution": 0.052859894765
+                    }
+                ]
+            },
+            {
+                "name": "Small-Cap",
+                "cost": 60994327.47,
+                "cost_pct": 27.91,
+                "market_value": 62756460.9142549,
+                "allocation": 29.39,
+                "xirr": 0.02476459,
+                "returns_contribution": 0.006911797069,
+                "instruments": [
+                    {
+                        "name": "CMS INFO SYSTEMS",
+                        "cost": 4834218.65,
+                        "cost_pct": 7.93,
+                        "market_value": 4018707.56228341,
+                        "allocation": 6.4,
+                        "xirr": -0.12099733,
+                        "returns_contribution": -0.009595088269
+                    },
+                    {
+                        "name": "CONCORD BIOTECH",
+                        "cost": 7206722.01,
+                        "cost_pct": 11.82,
+                        "market_value": 6803347.5,
+                        "allocation": 10.84,
+                        "xirr": -0.04011886,
+                        "returns_contribution": -0.004742049252
+                    },
+                    {
+                        "name": "ETERNAL",
+                        "cost": 14936089.1,
+                        "cost_pct": 24.49,
+                        "market_value": 23426078.903271,
+                        "allocation": 37.33,
+                        "xirr": 0.44875159,
+                        "returns_contribution": 0.109899264391
+                    },
+                    {
+                        "name": "EUREKA FORBES",
+                        "cost": 4123642.34,
+                        "cost_pct": 6.76,
+                        "market_value": 4831504.0,
+                        "allocation": 7.7,
+                        "xirr": 0.11866692,
+                        "returns_contribution": 0.008021883792
+                    },
+                    {
+                        "name": "JAMMU & KASHMIR BANK",
+                        "cost": 4655964.45,
+                        "cost_pct": 7.63,
+                        "market_value": 3809921.09313288,
+                        "allocation": 6.07,
+                        "xirr": -0.13375762,
+                        "returns_contribution": -0.010205706406
+                    },
+                    {
+                        "name": "WESTLIFE FOODWORLD",
+                        "cost": 4304693.22,
+                        "cost_pct": 7.06,
+                        "market_value": 3160289.36341874,
+                        "allocation": 5.04,
+                        "xirr": -0.19774829,
+                        "returns_contribution": -0.013961029274
+                    },
+                    {
+                        "name": "SUVEN PHARMA",
+                        "cost": 9980950.52,
+                        "cost_pct": 16.36,
+                        "market_value": 6559852.49214887,
+                        "allocation": 10.45,
+                        "xirr": -0.35856103,
+                        "returns_contribution": -0.058660584508
+                    },
+                    {
+                        "name": "RELIGARE ENTER",
+                        "cost": 10952047.18,
+                        "cost_pct": 17.96,
+                        "market_value": 10146760.0,
+                        "allocation": 16.17,
+                        "xirr": -0.09740792,
+                        "returns_contribution": -0.017494462432
+                    }
+                ]
+            }
+        ]
+    }
+}
